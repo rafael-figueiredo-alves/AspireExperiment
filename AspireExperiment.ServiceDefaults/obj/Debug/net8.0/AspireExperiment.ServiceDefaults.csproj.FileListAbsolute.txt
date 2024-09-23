@@ -1,0 +1,12 @@
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\bin\Debug\net8.0\AspireExperiment.ServiceDefaults.deps.json
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\bin\Debug\net8.0\AspireExperiment.ServiceDefaults.dll
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\bin\Debug\net8.0\AspireExperiment.ServiceDefaults.pdb
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\AspireExperiment.ServiceDefaults.csproj.AssemblyReference.cache
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\AspireExperiment.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\AspireExperiment.ServiceDefaults.AssemblyInfoInputs.cache
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\AspireExperiment.ServiceDefaults.AssemblyInfo.cs
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\AspireExperiment.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\AspireExperiment.ServiceDefaults.dll
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\refint\AspireExperiment.ServiceDefaults.dll
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\AspireExperiment.ServiceDefaults.pdb
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ServiceDefaults\obj\Debug\net8.0\ref\AspireExperiment.ServiceDefaults.dll
