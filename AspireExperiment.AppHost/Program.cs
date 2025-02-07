@@ -9,4 +9,9 @@ builder.AddProject<Projects.AspireExperiment_Web>("webfrontend")
     .WithReference(cache)
     .WithReference(apiService);
 
+builder.AddProject<Projects.AspireExperiment_Web2>("aspireexperiment-web2")
+    .WithExternalHttpEndpoints()
+    .WithReference(cache)
+    .WithReference(apiService);
+
 builder.Build().Run();

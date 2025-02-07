@@ -10,6 +10,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireExperiment.ApiService
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireExperiment.Web", "AspireExperiment.Web\AspireExperiment.Web.csproj", "{A7129536-A9B7-4FD7-9461-F462BBA6578B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireExperiment.Web2", "AspireExperiment.Web2\AspireExperiment.Web2\AspireExperiment.Web2.csproj", "{E578ED2C-FC1B-44AD-844D-46AC740B8C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireExperiment.Web2.Client", "AspireExperiment.Web2\AspireExperiment.Web2.Client\AspireExperiment.Web2.Client.csproj", "{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{A7129536-A9B7-4FD7-9461-F462BBA6578B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7129536-A9B7-4FD7-9461-F462BBA6578B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7129536-A9B7-4FD7-9461-F462BBA6578B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E578ED2C-FC1B-44AD-844D-46AC740B8C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E578ED2C-FC1B-44AD-844D-46AC740B8C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E578ED2C-FC1B-44AD-844D-46AC740B8C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E578ED2C-FC1B-44AD-844D-46AC740B8C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

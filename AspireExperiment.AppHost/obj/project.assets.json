@@ -2,6 +2,17 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Aspire.Dashboard.Sdk.win-x64/8.2.2": {
+        "type": "package",
+        "build": {
+          "buildTransitive/Aspire.Dashboard.Sdk.win-x64.props": {},
+          "buildTransitive/Aspire.Dashboard.Sdk.win-x64.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Aspire.Dashboard.Sdk.win-x64.props": {},
+          "buildMultiTargeting/Aspire.Dashboard.Sdk.win-x64.targets": {}
+        }
+      },
       "Aspire.Hosting/8.1.0": {
         "type": "package",
         "dependencies": {
@@ -84,6 +95,15 @@
         "buildMultiTargeting": {
           "buildMultiTargeting/Aspire.Hosting.AppHost.props": {},
           "buildMultiTargeting/Aspire.Hosting.AppHost.targets": {}
+        }
+      },
+      "Aspire.Hosting.Orchestration.win-x64/8.2.2": {
+        "type": "package",
+        "build": {
+          "buildTransitive/Aspire.Hosting.Orchestration.win-x64.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Aspire.Hosting.Orchestration.win-x64.targets": {}
         }
       },
       "Aspire.Hosting.Redis/8.1.0": {
@@ -1089,6 +1109,131 @@
     }
   },
   "libraries": {
+    "Aspire.Dashboard.Sdk.win-x64/8.2.2": {
+      "sha512": "m4Q3IOPdmHFwe4rSgxWf4njAqXsfaTwjNNkmw1ExltPx2GQr02dP+X91tvMCKY8WvPT3b3/qIyTZoxd1NPgkuw==",
+      "type": "package",
+      "path": "aspire.dashboard.sdk.win-x64/8.2.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "aspire.dashboard.sdk.win-x64.8.2.2.nupkg.sha512",
+        "aspire.dashboard.sdk.win-x64.nuspec",
+        "build/Aspire.Dashboard.Sdk.win-x64.props",
+        "build/Aspire.Dashboard.Sdk.win-x64.targets",
+        "buildMultiTargeting/Aspire.Dashboard.Sdk.win-x64.props",
+        "buildMultiTargeting/Aspire.Dashboard.Sdk.win-x64.targets",
+        "buildTransitive/Aspire.Dashboard.Sdk.win-x64.props",
+        "buildTransitive/Aspire.Dashboard.Sdk.win-x64.targets",
+        "tools/Aspire.Dashboard.deps.json",
+        "tools/Aspire.Dashboard.dll",
+        "tools/Aspire.Dashboard.exe",
+        "tools/Aspire.Dashboard.runtimeconfig.json",
+        "tools/Aspire.Dashboard.xml",
+        "tools/Google.Protobuf.dll",
+        "tools/Grpc.AspNetCore.Server.ClientFactory.dll",
+        "tools/Grpc.AspNetCore.Server.dll",
+        "tools/Grpc.Core.Api.dll",
+        "tools/Grpc.Net.Client.dll",
+        "tools/Grpc.Net.ClientFactory.dll",
+        "tools/Grpc.Net.Common.dll",
+        "tools/Humanizer.dll",
+        "tools/Microsoft.AspNetCore.Authentication.Certificate.dll",
+        "tools/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll",
+        "tools/Microsoft.AspNetCore.Authorization.dll",
+        "tools/Microsoft.AspNetCore.Components.Forms.dll",
+        "tools/Microsoft.AspNetCore.Components.Web.dll",
+        "tools/Microsoft.AspNetCore.Components.dll",
+        "tools/Microsoft.AspNetCore.Metadata.dll",
+        "tools/Microsoft.Extensions.Caching.Memory.dll",
+        "tools/Microsoft.Extensions.Configuration.Binder.dll",
+        "tools/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "tools/Microsoft.Extensions.DependencyInjection.dll",
+        "tools/Microsoft.Extensions.Diagnostics.Abstractions.dll",
+        "tools/Microsoft.Extensions.Diagnostics.dll",
+        "tools/Microsoft.Extensions.Hosting.Abstractions.dll",
+        "tools/Microsoft.Extensions.Http.dll",
+        "tools/Microsoft.Extensions.Logging.Abstractions.dll",
+        "tools/Microsoft.Extensions.Logging.dll",
+        "tools/Microsoft.Extensions.Options.dll",
+        "tools/Microsoft.FluentUI.AspNetCore.Components.Icons.dll",
+        "tools/Microsoft.FluentUI.AspNetCore.Components.dll",
+        "tools/Microsoft.IdentityModel.Abstractions.dll",
+        "tools/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "tools/Microsoft.IdentityModel.Logging.dll",
+        "tools/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "tools/Microsoft.IdentityModel.Protocols.dll",
+        "tools/Microsoft.IdentityModel.Tokens.dll",
+        "tools/Microsoft.JSInterop.dll",
+        "tools/System.IdentityModel.Tokens.Jwt.dll",
+        "tools/appsettings.Development.json",
+        "tools/appsettings.json",
+        "tools/cs/Aspire.Dashboard.resources.dll",
+        "tools/de/Aspire.Dashboard.resources.dll",
+        "tools/es/Aspire.Dashboard.resources.dll",
+        "tools/fr/Aspire.Dashboard.resources.dll",
+        "tools/it/Aspire.Dashboard.resources.dll",
+        "tools/ja/Aspire.Dashboard.resources.dll",
+        "tools/ko/Aspire.Dashboard.resources.dll",
+        "tools/pl/Aspire.Dashboard.resources.dll",
+        "tools/pt-BR/Aspire.Dashboard.resources.dll",
+        "tools/ru/Aspire.Dashboard.resources.dll",
+        "tools/tr/Aspire.Dashboard.resources.dll",
+        "tools/web.config",
+        "tools/wwwroot/Aspire.Dashboard.modules.json",
+        "tools/wwwroot/Aspire.Dashboard.styles.css",
+        "tools/wwwroot/Components/Controls/Chart/MetricTable.razor.js",
+        "tools/wwwroot/Components/Dialogs/TextVisualizerDialog.razor.js",
+        "tools/wwwroot/Components/Pages/Login.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Anchor/FluentAnchor.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/AnchoredRegion/FluentAnchoredRegion.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Button/FluentButton.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Checkbox/FluentCheckbox.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/DataGrid/FluentDataGrid.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/DesignSystemProvider/FluentDesignTheme.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Divider/FluentDivider.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Grid/FluentGrid.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/HorizontalScroll/FluentHorizontalScroll.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/InputFile/FluentInputFile.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/KeyCode/FluentKeyCode.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Label/FluentInputLabel.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/List/FluentAutocomplete.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/List/FluentCombobox.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/List/ListComponentBase.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Menu/FluentMenu.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/NavMenu/FluentNavMenu.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Overflow/FluentOverflow.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/PullToRefresh/FluentPullToRefresh.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Search/FluentSearch.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Slider/FluentSlider.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Slider/FluentSliderLabel.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/SortableList/FluentSortableList.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Splitter/FluentMultiSplitter.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Tabs/FluentTab.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/TextField/FluentTextField.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Components/Tooltip/FluentTooltip.razor.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.bundle.scp.css",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.lib.module.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.lib.module.js.LEGAL.txt",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.lib.module.js.map",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/css/reboot.css",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/js/initializersLoader.webview.js",
+        "tools/wwwroot/_content/Microsoft.FluentUI.AspNetCore.Components/js/loading-theme.js",
+        "tools/wwwroot/css/app.css",
+        "tools/wwwroot/css/highlight.css",
+        "tools/wwwroot/favicon.ico",
+        "tools/wwwroot/img/TokenExample.png",
+        "tools/wwwroot/js/app-metrics.js",
+        "tools/wwwroot/js/app-theme.js",
+        "tools/wwwroot/js/app.js",
+        "tools/wwwroot/js/highlight-11.10.0.min.js",
+        "tools/wwwroot/js/plotly-2.32.0.min.js",
+        "tools/zh-Hans/Aspire.Dashboard.resources.dll",
+        "tools/zh-Hant/Aspire.Dashboard.resources.dll"
+      ]
+    },
     "Aspire.Hosting/8.1.0": {
       "sha512": "AT+yOBcPHddsDREVqEIzcAWf+dv6pQZOuLRPfX1eAYiNcUGo3DnI8IyWXfaWd2ggxxh9GD9r6kDznT0ExQd4LQ==",
       "type": "package",
@@ -1138,6 +1283,28 @@
         "buildTransitive/Aspire.Hosting.AppHost.targets",
         "lib/net8.0/Aspire.Hosting.AppHost.dll",
         "lib/net8.0/Aspire.Hosting.AppHost.xml"
+      ]
+    },
+    "Aspire.Hosting.Orchestration.win-x64/8.2.2": {
+      "sha512": "hLgDBuxq5ibTist+KrtOi/aMMOKVdoBCwsU6lZeafjAr9XlzepTkhGekp8GPhb6j4DZsEeCSfzCelDY9gbFK/g==",
+      "type": "package",
+      "path": "aspire.hosting.orchestration.win-x64/8.2.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "aspire.hosting.orchestration.win-x64.8.2.2.nupkg.sha512",
+        "aspire.hosting.orchestration.win-x64.nuspec",
+        "build/Aspire.Hosting.Orchestration.win-x64.targets",
+        "buildMultiTargeting/Aspire.Hosting.Orchestration.win-x64.targets",
+        "buildTransitive/Aspire.Hosting.Orchestration.win-x64.targets",
+        "tools/EULA.rtf",
+        "tools/NOTICE",
+        "tools/dcp.exe",
+        "tools/ext/bin/dcpproc.exe",
+        "tools/ext/dcpctrl.exe"
       ]
     },
     "Aspire.Hosting.Redis/8.1.0": {
@@ -2725,7 +2892,9 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Aspire.Dashboard.Sdk.win-x64 >= 8.2.2",
       "Aspire.Hosting.AppHost >= 8.1.0",
+      "Aspire.Hosting.Orchestration.win-x64 >= 8.2.2",
       "Aspire.Hosting.Redis >= 8.1.0"
     ]
   },
@@ -2773,15 +2942,26 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Aspire.Dashboard.Sdk.win-x64": {
+            "target": "Package",
+            "version": "[8.2.2, )",
+            "autoReferenced": true
+          },
           "Aspire.Hosting.AppHost": {
             "target": "Package",
             "version": "[8.1.0, )"
+          },
+          "Aspire.Hosting.Orchestration.win-x64": {
+            "target": "Package",
+            "version": "[8.2.2, )",
+            "autoReferenced": true
           },
           "Aspire.Hosting.Redis": {
             "target": "Package",
@@ -2804,7 +2984,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

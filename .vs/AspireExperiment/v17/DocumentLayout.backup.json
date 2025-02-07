@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MeusProjetos\\AspireExperiment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1392836E-016A-45CD-A93B-BAD17B4CDD35}|AspireExperiment.ApiService\\AspireExperiment.ApiService.csproj|c:\\meusprojetos\\aspireexperiment\\aspireexperiment.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1392836E-016A-45CD-A93B-BAD17B4CDD35}|AspireExperiment.ApiService\\AspireExperiment.ApiService.csproj|solutionrelative:aspireexperiment.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}|AspireExperiment.Web2\\AspireExperiment.Web2.Client\\AspireExperiment.Web2.Client.csproj|c:\\meusprojetos\\aspireexperiment\\aspireexperiment.web2\\aspireexperiment.web2.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}|AspireExperiment.Web2\\AspireExperiment.Web2.Client\\AspireExperiment.Web2.Client.csproj|solutionrelative:aspireexperiment.web2\\aspireexperiment.web2.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}|AspireExperiment.Web2\\AspireExperiment.Web2.Client\\AspireExperiment.Web2.Client.csproj|c:\\meusprojetos\\aspireexperiment\\aspireexperiment.web2\\aspireexperiment.web2.client\\weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}|AspireExperiment.Web2\\AspireExperiment.Web2.Client\\AspireExperiment.Web2.Client.csproj|solutionrelative:aspireexperiment.web2\\aspireexperiment.web2.client\\weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E578ED2C-FC1B-44AD-844D-46AC740B8C1C}|AspireExperiment.Web2\\AspireExperiment.Web2\\AspireExperiment.Web2.csproj|c:\\meusprojetos\\aspireexperiment\\aspireexperiment.web2\\aspireexperiment.web2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E578ED2C-FC1B-44AD-844D-46AC740B8C1C}|AspireExperiment.Web2\\AspireExperiment.Web2\\AspireExperiment.Web2.csproj|solutionrelative:aspireexperiment.web2\\aspireexperiment.web2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7129536-A9B7-4FD7-9461-F462BBA6578B}|AspireExperiment.Web\\AspireExperiment.Web.csproj|c:\\meusprojetos\\aspireexperiment\\aspireexperiment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7129536-A9B7-4FD7-9461-F462BBA6578B}|AspireExperiment.Web\\AspireExperiment.Web.csproj|solutionrelative:aspireexperiment.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}|AspireExperiment.Web2\\AspireExperiment.Web2.Client\\AspireExperiment.Web2.Client.csproj|c:\\meusprojetos\\aspireexperiment\\aspireexperiment.web2\\aspireexperiment.web2.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00DCFE1B-3019-486E-A5CB-E1ED26479A9F}|AspireExperiment.Web2\\AspireExperiment.Web2.Client\\AspireExperiment.Web2.Client.csproj|solutionrelative:aspireexperiment.web2\\aspireexperiment.web2.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7129536-A9B7-4FD7-9461-F462BBA6578B}|AspireExperiment.Web\\AspireExperiment.Web.csproj|c:\\meusprojetos\\aspireexperiment\\aspireexperiment.web\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7129536-A9B7-4FD7-9461-F462BBA6578B}|AspireExperiment.Web\\AspireExperiment.Web.csproj|solutionrelative:aspireexperiment.web\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "AspireExperiment.ApiService\\Program.cs",
+              "ToolTip": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.ApiService\\Program.cs",
+              "RelativeToolTip": "AspireExperiment.ApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:47:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2\\Program.cs",
+              "RelativeDocumentMoniker": "AspireExperiment.Web2\\AspireExperiment.Web2\\Program.cs",
+              "ToolTip": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2\\Program.cs",
+              "RelativeToolTip": "AspireExperiment.Web2\\AspireExperiment.Web2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:22:40.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Program.cs",
+              "RelativeDocumentMoniker": "AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Program.cs",
+              "ToolTip": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Program.cs",
+              "RelativeToolTip": "AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:21:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AspireExperiment.Web\\Program.cs",
+              "ToolTip": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web\\Program.cs",
+              "RelativeToolTip": "AspireExperiment.Web\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:21:28.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Pages\\Weather.razor",
+              "ToolTip": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Pages\\Weather.razor",
+              "RelativeToolTip": "AspireExperiment.Web2\\AspireExperiment.Web2.Client\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T00:19:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "AspireExperiment.Web\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "AspireExperiment.Web\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T00:16:38.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherApiClient.cs",
+              "DocumentMoniker": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2.Client\\WeatherApiClient.cs",
+              "RelativeDocumentMoniker": "AspireExperiment.Web2\\AspireExperiment.Web2.Client\\WeatherApiClient.cs",
+              "ToolTip": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web2\\AspireExperiment.Web2.Client\\WeatherApiClient.cs",
+              "RelativeToolTip": "AspireExperiment.Web2\\AspireExperiment.Web2.Client\\WeatherApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:17:51.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -45,9 +45,11 @@ C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\Aspir
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\Aspire\references\AspireExperiment_ApiService.ProjectMetadata.g.cs
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\Aspire\references\AspireExperiment_Web.ProjectMetadata.g.cs
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
+C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\AspireExperiment.AppHost.sourcelink.json
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\AspireEx.ED16F0C1.Up2Date
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\AspireExperiment.AppHost.dll
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\refint\AspireExperiment.AppHost.dll
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\AspireExperiment.AppHost.pdb
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\AspireExperiment.AppHost.genruntimeconfig.cache
 C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\ref\AspireExperiment.AppHost.dll
+C:\MeusProjetos\AspireExperiment\AspireExperiment.AppHost\obj\Debug\net8.0\Aspire\references\AspireExperiment_Web2.ProjectMetadata.g.cs

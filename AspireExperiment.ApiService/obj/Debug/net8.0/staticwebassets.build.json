@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "LSZiMj62gCwAREuvtWqWeMxWZsq+NOVYTlf3WC15ttI=",
+  "Hash": "0mVXCAhoSLzh4yiYCmnozNXkBF9TDxvFJrOQ+Pkbj8A=",
   "Source": "AspireExperiment.ApiService",
   "BasePath": "_content/AspireExperiment.ApiService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

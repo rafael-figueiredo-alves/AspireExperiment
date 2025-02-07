@@ -1,5 +1,6 @@
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\bin\Debug\net8.0\appsettings.Development.json
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\bin\Debug\net8.0\appsettings.json
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\bin\Debug\net8.0\AspireExperiment.ApiService.staticwebassets.endpoints.json
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\bin\Debug\net8.0\AspireExperiment.ApiService.exe
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\bin\Debug\net8.0\AspireExperiment.ApiService.deps.json
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\bin\Debug\net8.0\AspireExperiment.ApiService.runtimeconfig.json
@@ -46,14 +47,18 @@ C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\As
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\AspireExperiment.ApiService.AssemblyInfo.cs
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\AspireExperiment.ApiService.csproj.CoreCompileInputs.cache
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\AspireExperiment.ApiService.MvcApplicationPartsAssemblyInfo.cache
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\AspireExperiment.ApiService.sourcelink.json
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\scopedcss\bundle\AspireExperiment.ApiService.styles.css
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets.build.json
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets.development.json
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets\msbuild.AspireExperiment.ApiService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets\msbuild.AspireExperiment.ApiService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets\msbuild.build.AspireExperiment.ApiService.props
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AspireExperiment.ApiService.props
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AspireExperiment.ApiService.props
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets.pack.json
-C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\scopedcss\bundle\AspireExperiment.ApiService.styles.css
+C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\AspireEx.A0D25517.Up2Date
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\AspireExperiment.ApiService.dll
 C:\MeusProjetos\AspireExperiment\AspireExperiment.ApiService\obj\Debug\net8.0\refint\AspireExperiment.ApiService.dll

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sEersnup1wk=",
+  "dgSpecHash": "dXyl/eV27HE=",
   "success": true,
   "projectFilePath": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.AppHost\\AspireExperiment.AppHost.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\devpe\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\8.2.2\\aspire.dashboard.sdk.win-x64.8.2.2.nupkg.sha512",
     "C:\\Users\\devpe\\.nuget\\packages\\aspire.hosting\\8.1.0\\aspire.hosting.8.1.0.nupkg.sha512",
     "C:\\Users\\devpe\\.nuget\\packages\\aspire.hosting.apphost\\8.1.0\\aspire.hosting.apphost.8.1.0.nupkg.sha512",
+    "C:\\Users\\devpe\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.2\\aspire.hosting.orchestration.win-x64.8.2.2.nupkg.sha512",
     "C:\\Users\\devpe\\.nuget\\packages\\aspire.hosting.redis\\8.1.0\\aspire.hosting.redis.8.1.0.nupkg.sha512",
     "C:\\Users\\devpe\\.nuget\\packages\\fractions\\7.3.0\\fractions.7.3.0.nupkg.sha512",
     "C:\\Users\\devpe\\.nuget\\packages\\google.protobuf\\3.24.0\\google.protobuf.3.24.0.nupkg.sha512",

@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireExperiment.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\AspireExperiment.Web.bundle.scp.css"
+      "PackagePath": "staticwebassets\\AspireExperiment.Web.vxou49y9en.bundle.scp.css"
     },
     {
       "Id": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web\\wwwroot\\app.css",
@@ -19,6 +19,10 @@
     {
       "Id": "C:\\MeusProjetos\\AspireExperiment\\AspireExperiment.Web\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspireExperiment.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspireExperiment.Web.Microsoft.AspNetCore.StaticWebAssets.props",
